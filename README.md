@@ -72,5 +72,5 @@ The Swin Transformer is better for diabetes and systolic pressure, VGG is slight
 ```
 V. Chekmenev. Screening for Type 2 Diabetes and Hypertension from Photoplethysmography
 with Wavelet Images and Vision Transformers. Preprint, 2024.
-https://github.com/Suraba03/bsc-thesis
+https://github.com/Suraba03/bsc-thesis-ppg-diabetes-hypertension
 ```
