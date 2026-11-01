@@ -53,7 +53,7 @@ The Swin Transformer is better for diabetes and systolic pressure, VGG is slight
    pip3 install -r requirements.txt
    ```
 
-3. Download the trained model weights (`.pt` file) from [Google Drive](https://drive.google.com/file/d/1LzrAYKdy-dmqsfo_-P71HtuFqhl5U7Ei/view?usp=sharing) and put it into a `model/` folder in the repo root. The app expects the file name `model/efficientnet-medium.pt`.
+3. **Model weights are not publicly available.** The trained `.pt` file is not distributed with this repo. To request it, email chekmenev031@gmail.com. Once you have the file, put it into a `model/` folder in the repo root. The app expects the file name `model/efficientnet-medium.pt`.
 4. Unpack `data/test_signals/Archive.zip`. It contains example signals you can upload to the app.
 5. Start the app and open the printed local address in your browser:
 
